@@ -1,7 +1,7 @@
 import streamlit 
 
 streamlit.title('My Parents New Helthy Dinner')
-Streamlit.header('Breakfast Menu')
-Streamlit.text('Bread and Jam')
-Streamlit.text('Poha with Peanut')
-Streamlit.text('milk shake with dry fruites')
+streamlit.header('Breakfast Menu')
+streamlit.text('Bread and Jam')
+streamlit.text('Poha with Peanut')
+streamlit.text('milk shake with dry fruites')
